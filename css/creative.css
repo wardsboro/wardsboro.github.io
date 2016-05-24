@@ -68,6 +68,18 @@ p {
     color: #137AAE;
 }
 
+.txt-white {
+    color: #fff;
+}
+
+.center-img {
+    margin: auto;
+}
+
+.push-right {
+    margin-right:15px;
+}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
 }
@@ -77,7 +89,11 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
+}
+
+section#header-sec {
+    padding-top: 100px;
 }
 
 aside {
