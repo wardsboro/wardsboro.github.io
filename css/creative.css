@@ -88,6 +88,12 @@ p {
     font-size: 12px;
 }
 
+ @media only screen and (max-width : 480px) {
+    .navbar-default .navbar-header .navbar-brand {
+        font-size: 12px;
+    }
+}
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
 }
