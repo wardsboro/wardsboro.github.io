@@ -1,2 +1,0 @@
-(function(){define([],function(){var n;return n=function(){function n(){}return n.splitFullName=function(n){var i,t,u;return u=n.split(" "),i=u[0],t=u.slice(1).join(" "),[i,t]},n}()})}).call(this);
-//# sourceMappingURL=name_parser.min.js-vflmMHvTD.map

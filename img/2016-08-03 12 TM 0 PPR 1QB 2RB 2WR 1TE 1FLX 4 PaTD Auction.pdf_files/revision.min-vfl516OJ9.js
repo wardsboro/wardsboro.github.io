@@ -1,2 +1,0 @@
-define(["require","exports","modules/core/types"],function(e,i,r){"use strict";i.RevisionShape=Object.freeze({revision_id:String,when:Number,preview_link:r.Maybe(String),direct_blockserver_link:r.Maybe(String)})});
-//# sourceMappingURL=revision.min.js-vfljHYCOQ.map
